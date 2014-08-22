@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/api.jar"/>
+	<classpathentry kind="lib" path="lib/asm-all-5.0_ALPHA.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/authlib-1.5.13.jar"/>
+	<classpathentry kind="lib" path="lib/ByteTools2.jar" sourcepath="/bytetools2"/>
+	<classpathentry kind="lib" path="lib/gauva.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="lib/thumbnailator-0.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
